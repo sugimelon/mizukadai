@@ -1,5 +1,2 @@
-#include<stdio.h>
-void main(void){
-	printf("Hello world");
-	printf("My hobby is baseball");
-}
+printf("hello world!");
+printf("My hobby is baseball");
